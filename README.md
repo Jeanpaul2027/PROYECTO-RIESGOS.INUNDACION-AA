@@ -1,5 +1,5 @@
 # PROYECTO-RIESGOS.INUNDACION-AA
-🌊 Clasificación del Riesgo de Inundación por Parroquia — Los Ríos
+Clasificación del Riesgo de Inundación por Parroquia — Los Ríos
 Descripción
 Modelo de clasificación supervisada para predecir el nivel de riesgo de inundación (bajo, medio, alto) de las 30 parroquias de la provincia de Los Ríos, Ecuador.
 
@@ -10,8 +10,9 @@ Leaflet (mapa interactivo)
 
 PythonAnywhere (hosting)
 
+
 Estructura del proyecto
-text
+
 proyecto-riesgo-inundacion/
 ├── app.py                      # Backend Flask
 ├── requirements.txt            # Dependencias
@@ -27,10 +28,15 @@ proyecto-riesgo-inundacion/
 ├── notebook/                   # Análisis exploratorio y modelado
 ├── informe/                    # Informe académico en LaTeX
 └── presentacion/               # Diapositivas del proyecto
+
 Aplicación en producción
+
 https://andresvl.pythonanywhere.com
 
 Cómo ejecutar localmente
-bash
+
 pip install -r requirements.txt
 python app.py
+
+Autor
+Andrés V. 
